@@ -1,0 +1,56 @@
+*{margin: 0;
+font-family: sans-serif;
+text-align: center;}
+
+table
+{width: 90%;
+ height: 90vh;
+ margin: auto;
+ border-collapse: collapse;
+}
+
+div
+{text-align: left;}
+
+td
+{width: 5%;
+height: 8vh;}
+
+.e
+{border: 1px solid black;}
+
+.border
+{border: 1px solid black;}
+
+.nada
+{background-color: white;}
+
+.trem
+{background-color: rgb(211, 155, 148);}
+
+#ametais
+{background-color: rgb(145, 206, 118);}
+
+#gasnobre
+{background-color: rgb(63, 128, 212);}
+
+#halogeno
+{background-color: rgb(7, 255, 255);}
+
+#alcalinos
+{background-color: rgb(255, 188, 63);}
+
+#alcalinoterroso
+{background-color: rgb(255, 255, 68);}
+
+#semimetais
+{background-color: rgb(110, 158, 144);}
+
+#outrosmetais
+{background-color: rgb(132, 171, 202);}
+
+#lantanideos
+{background-color: rgb(100, 187, 187);}
+
+#actinideos
+{background-color: rgb(212, 156, 210);}
